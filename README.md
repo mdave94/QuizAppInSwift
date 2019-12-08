@@ -1,6 +1,9 @@
 
 #  Quizzler App From appbrewery.com
 
+Update 1.0:
+In case of wrong answer the app shows the correct answer in a new window. 
+In the new window we can go back the previous statement in the quiz.
 
 
 ## My Goal was :
